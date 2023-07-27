@@ -8,5 +8,5 @@ C++ 학습동아리 1주차 질문
 ### [Week 02](https://parksehyeon1009.github.io/2Week)
 C++ 학습동아리 2주차 (6~8장)
 
-### [Week 03](https://parksehyeon1009.github.io/3week)
+### [Week 03](https://parksehyeon1009.github.io/3Week/)
 C++ 학습동아리 3주차 (9장) (07-27 10:48 정리중)
